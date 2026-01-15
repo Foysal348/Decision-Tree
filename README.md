@@ -1,5 +1,10 @@
 # Decision-Tree
-## Decision Tree Assignment: CART vs ID3
+**Overview**
+
+A Decision Tree is a supervised machine learning algorithm used for classification and regression tasks. It models decisions using a tree-like structure where internal nodes represent conditions on features, branches represent decision rules, and leaf nodes represent outcomes.
+
+This project demonstrates how to build, train, evaluate, and visualize a Decision Tree model using Python.
+# Decision Tree Assignment: CART vs ID3
 
 ### How to Run
 1. Open the Colab link below
