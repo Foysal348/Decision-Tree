@@ -1,9 +1,32 @@
 # Decision-Tree
 **Overview**
 
-A Decision Tree is a supervised machine learning algorithm used for classification and regression tasks. It models decisions using a tree-like structure where internal nodes represent conditions on features, branches represent decision rules, and leaf nodes represent outcomes.
+Decision Tree Machine Learning Notebook
+Introduction
 
-This project demonstrates how to build, train, evaluate, and visualize a Decision Tree model using Python.
+This repository contains a Jupyter Notebook (210122_DT.ipynb) that demonstrates the end-to-end process of building and evaluating a Decision Tree machine learning model using Python. Decision Trees are a widely used supervised learning algorithm applicable to classification and regression problems.
+
+**Repository Contents**
+<img width="704" height="191" alt="image" src="https://github.com/user-attachments/assets/4d019ccd-439b-4b0f-9410-d42bef01aec0" />
+
+**Purpose**
+
+The notebook covers:
+
+1. Data Loading and Preprocessing
+Importing datasets, handling missing values, encoding categorical features.
+
+2. Exploratory Data Analysis (EDA)
+Visualizing feature distributions and relationships.
+
+3. Model Training
+Training a Decision Tree model (classification or regression) with scikit-learn.
+
+4. Model Evaluation
+Evaluating performance using metrics such as accuracy, confusion matrix, precision, recall, etc.
+
+5. Visualization of the Decision Tree
+Displaying the tree structure visually to interpret decision paths
 # Decision Tree Assignment: CART vs ID3
 
 ### How to Run
