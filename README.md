@@ -28,6 +28,10 @@ Evaluating performance using metrics such as accuracy, confusion matrix, precisi
 5. Visualization of the Decision Tree
 Displaying the tree structure visually to interpret decision paths
 # Decision Tree Assignment: CART vs ID3
+<img width="1351" height="667" alt="image" src="https://github.com/user-attachments/assets/eaff19af-83d1-478d-82d2-7be77c467774" />
+
+
+<img width="1355" height="661" alt="image" src="https://github.com/user-attachments/assets/5d7d150b-e7fa-4526-8cc8-a20475d57024" />
 
 ### How to Run
 1. Open the Colab link below
