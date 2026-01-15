@@ -28,18 +28,23 @@ Evaluating performance using metrics such as accuracy, confusion matrix, precisi
 5. Visualization of the Decision Tree
 Displaying the tree structure visually to interpret decision paths
 # Decision Tree Assignment: CART vs ID3
+
 <img width="1351" height="667" alt="image" src="https://github.com/user-attachments/assets/eaff19af-83d1-478d-82d2-7be77c467774" />
 
 
 <img width="1355" height="661" alt="image" src="https://github.com/user-attachments/assets/5d7d150b-e7fa-4526-8cc8-a20475d57024" />
 
-### How to Run
+**Decision Tree Boundary**
+
+<img width="1168" height="502" alt="image" src="https://github.com/user-attachments/assets/8517de4e-e236-410a-a066-d09ca168809a" />
+
+# How to Run
 1. Open the Colab link below
 2. Click Runtime → Run all
 3. All models will train automatically and plots will be generated
 
-### Dataset
+# Dataset
 Breast_Cancer.csv is included in this repository and auto-loaded in Colab.
 
-### Colab Notebook
+# Colab Notebook
 [Click here to open in Colab](https://colab.research.google.com/drive/1VowXfx6x63pa5Ql63BSzwGljOcD5OP1Y?usp=sharing)
